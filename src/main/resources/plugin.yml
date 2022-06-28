@@ -1,0 +1,7 @@
+name: TeamAutoJoin
+version: '${project.version}'
+main: teamaj.teamautojoin.TeamAutoJoin
+api-version: 1.19
+prefix: teamAJ
+authors: [ KiraPixel ]
+description: AutoJoinYouTeam
